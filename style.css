@@ -11,7 +11,7 @@ header .settings img{
     margin-right: 1rem;
 }
 body{
-    background-image: url(/assets/bg.gif);
+    background-image: url(assets/bg.gif);
     background-repeat: no-repeat;
     background-size: cover;
 
